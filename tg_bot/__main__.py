@@ -22,7 +22,7 @@ PM_START_TEXT = """
 
 ```You You Can Add any kind of Filters to This Bot!```
 
-*Channel:© @DX_Botz*
+*This bot is made by [Nishanth 🇮🇳](t.me/spade_csoadmin)*
 
 /help for more details..
 """
@@ -38,10 +38,9 @@ And the following:
 """.format(dispatcher.bot.first_name, "" if not ALLOW_EXCL else "\nഈ പറഞ്ഞിരിക്കുന്ന commandകൾ എല്ലാം  / അല്ലെങ്കിൽ ! വെച്ച് ഉപയോഗിക്കാവുന്നതാണ്...\n")
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
-It took lots of work for [my creator](t.me/sonoflars) to get me to where I am now, and every donation helps \
+It took lots of work for to get me to where I am now, and every donation helps \
 motivate him to make me even better. All the donation money will go to a better VPS to host me, and/or beer \
-(see his bio!). He's just a poor student, so every little helps!
-There are two ways of paying him; [PayPal](paypal.me/PaulSonOfLars), or [Monzo](monzo.me/paulnionvestergaardlarsen)."""
+(see his bio!). He's just a poor student, so every little helps."""
 
 IMPORTED = {}
 MIGRATEABLE = []
