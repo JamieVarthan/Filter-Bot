@@ -22,7 +22,7 @@ PM_START_TEXT = """
 
 ```You You Can Add any kind of Filters to This Bot!```
 
-"`Bot created by:` [Spade](https://t.me/wolverine_smash)\n"
+`Bot created by:` [Nishanth](https://t.me/SPADE_csoadmin)\n
 
 /help for more details..
 """
